@@ -12,7 +12,7 @@
 ---
 
 ## 📸 Screenshot
-![Website Screenshot](src/assets/screenshootportfolio.png)
+![Website Screenshot](public/apex-gym screenshot.png)
 
 ---
 
