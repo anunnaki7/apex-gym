@@ -7,7 +7,7 @@
 
 > 🚀 A high-performance, conversion-focused gym landing page showcasing modern frontend development. This is a **fictional demo project** designed to demonstrate professional web development skills.
 
-**🔗 Live Demo:** [apex-gym.vercel.app](https://apex-gym1.vercel.app/)
+**🔗 Live Demo:** [apex-gym](https://apex-gym1.vercel.app/)
 
 ---
 
