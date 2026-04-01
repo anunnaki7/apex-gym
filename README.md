@@ -91,20 +91,21 @@ If you're looking for a developer to build a professional website for your busin
 ```
 apex-gym/
 ├── public/
-│   ├── favicon.png            # Site favicon
-│   └── og-image.png           # Social media preview image
+│   ├── favicon.png                # Site favicon
+│   ├── og-image.png               # Social media preview image
+│   └── apex-gym-screenshot.png    # Project screenshot
 ├── src/
 │   ├── utils/
-│   │   └── cn.ts              # clsx + tailwind-merge utility
-│   ├── App.tsx                # Main component — full site
-│   ├── hover.css              # Hover effect classes
-│   ├── index.css              # Tailwind CSS entry
-│   └── main.tsx               # React entry point
-├── index.html                 # HTML with SEO meta tags
-├── vite.config.ts             # Vite configuration
-├── tsconfig.json              # TypeScript configuration
-├── package.json               # Dependencies
-└── README.md                  # Documentation
+│   │   └── cn.ts                  # clsx + tailwind-merge utility
+│   ├── App.tsx                    # Main component — full site
+│   ├── hover.css                  # Hover effect classes
+│   ├── index.css                  # Tailwind CSS entry
+│   └── main.tsx                   # React entry point
+├── index.html                     # HTML with SEO meta tags
+├── vite.config.ts                 # Vite configuration
+├── tsconfig.json                  # TypeScript configuration
+├── package.json                   # Dependencies
+└── README.md                      # Documentation
 ```
 
 ---
